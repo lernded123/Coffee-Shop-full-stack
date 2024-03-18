@@ -132,7 +132,7 @@ header {
 .home-text h1 {
   font-size: 3.5rem;
   font-weight: 800;
-  color: var(--main-color);
+  color: black;
   margin-left: 20px;
 }
 .home-text p {
@@ -191,7 +191,7 @@ header {
   gap: 1rem;
 }
 .ser-box {
-  background: white;
+  background: var(--main-color);
   display: flex;
   flex-direction: column;
   align-items: center;
